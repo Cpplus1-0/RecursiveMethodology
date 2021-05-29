@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1593436684 source:c:\users\naimul hp spectre\cpp_projects\recursivemethodology\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	<cmath>
+	"Series.h"
+
+1593102868 source:c:\users\naimul hp spectre\cpp_projects\recursivemethodology\stack.cpp
+	"Stack.h"
+
+1593102819 c:\users\naimul hp spectre\cpp_projects\recursivemethodology\stack.h
+	<fstream>
+	<iostream>
+	<string>
+	"Stack.cpp"
+
+1593102868 c:\users\naimul hp spectre\cpp_projects\recursivemethodology\stack.cpp
+	"Stack.h"
+
+1611635821 source:c:\users\naimul hp spectre\cpp_projects\recursivemethodology\series.cpp
+	<cmath>
+	<cstring>
+	"Series.h"
+
+1593452678 c:\users\naimul hp spectre\cpp_projects\recursivemethodology\series.h
+	<iostream>
+
