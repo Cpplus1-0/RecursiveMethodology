@@ -4,6 +4,7 @@
 #include <cmath>
 
 #include "Series.h"
+#include "Series.cpp"
 
 using namespace std;
 
